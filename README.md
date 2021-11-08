@@ -1,2 +1,23 @@
 # HDATEATROUNIR
-Repositorio público del proyecto HDATEATROUNIR del grupo de investigación @HDAUNIR
+
+## El proyecto
+
+### Presentación
+
+### Objetivos
+
+### Historia
+
+### Miembros
+
+---
+
+## Transferencia
+
+### Publicaciones
+
+### Congresos, seminarios
+
+---
+
+etc 
